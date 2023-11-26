@@ -26,7 +26,10 @@ body{
 
 
 
-
+section{
+  padding-left: 15px;
+  padding-right: 15px;
+}
 .section1-container1{
   border-radius: 43.942px;
   background: #532E83;
@@ -190,9 +193,6 @@ input[type='range']{
   .footer-terms li a::after {
   height: 26px;
   top: 7px;
-}
-section{
-  padding: 0 15px;
 }
 .menu li a::after {
   bottom: 15px;
