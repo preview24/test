@@ -189,13 +189,16 @@ input[type='range']{
 @media(max-width: 767px){
   .footer-terms li a::after {
   height: 26px;
-  top: 18px;
+  top: 7px;
 }
 section{
   padding: 0 15px;
 }
 .menu li a::after {
   bottom: 15px;
+}
+.footer-terms li a {
+  padding: 8px 16px;
 }
 }
 
